@@ -1,0 +1,15 @@
+link semoga membantu:
+
+http://www.tutorial-webdesign.com/membuat-landing-page-bergaya-flat-design/
+http://tutorial-webdesign.com/labs/jquery/landing-one-page/
+http://tutorial-webdesign.com/labs/jquery/landing-one-page/index2.html
+https://michalsnik.github.io/aos/	=> animation
+https://www.w3schools.com/w3css/w3css_slideshow.asp =>button
+https://stackoverflow.com/questions/17925559/populating-select-with-mysql-data-dynamically-using-codeigniter
+https://stackoverflow.com/questions/17471522/codeigniter-populating-a-select-input-form-dropdown-with-database-table-data
+https://codepen.io/mtbroomell/pen/yNwwdv => quantity type
+http://www.kodingmadesimple.com/2015/03/how-to-send-email-in-codeigniter-smtp.html => email sign up
+http://www.kodingmadesimple.com/2015/08/create-simple-registration-form-codeigniter-email-verification.html
+sql:
+
+SELECT t_home.name, t_away.name FROM `schedule` LEFT JOIN team t_home ON schedule.id_home = t_home.id LEFT JOIN team t_away ON schedule.id_away = t_away.id
